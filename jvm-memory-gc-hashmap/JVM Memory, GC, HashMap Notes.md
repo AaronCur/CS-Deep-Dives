@@ -1,4 +1,4 @@
-[[jvm-memory-gc-hashmap/Cheat Sheet|Cheat Sheet]]
+[Cheat Sheet](Cheat%20Sheet.md)
 # Week 1 Deep Topic: JVM Memory Model, GC Basics, HashMap Internals
 
 ---

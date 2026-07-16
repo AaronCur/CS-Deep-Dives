@@ -1,4 +1,4 @@
-[[concurrency/Cheat Sheet]]
+[[Cheat Sheet](Cheat%20Sheet.md)
 # Week 2 Deep Topic — Java Concurrency
 
 **Suggested split:** ~45 min Threads/Executors + synchronized vs Lock, ~30 min volatile/deadlocks/CompletableFuture, then self-test.
